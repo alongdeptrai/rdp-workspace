@@ -1,7 +1,0 @@
-KANDA RDP - CONNECTION INFO
-========================================
-  Tunnel TCP   : tcp://hhtlkzpcn2.localto.net:6643
-  RDP User     : Kandagawa
-  RDP Pass     : Kandagw@12345
-  Runtime      : 355 min
-========================================
