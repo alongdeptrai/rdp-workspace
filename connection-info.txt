@@ -1,0 +1,7 @@
+KANDA RDP - CONNECTION INFO
+========================================
+  Tunnel TCP   : tcp://bk4dctmybn.localto.net:6384
+  RDP User     : Kandagawa
+  RDP Pass     : Kandagw@12345
+  Runtime      : 355 min
+========================================
